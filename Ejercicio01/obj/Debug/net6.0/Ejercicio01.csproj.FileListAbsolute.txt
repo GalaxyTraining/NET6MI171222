@@ -1,0 +1,15 @@
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\bin\Debug\net6.0\Ejercicio01.exe
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\bin\Debug\net6.0\Ejercicio01.deps.json
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\bin\Debug\net6.0\Ejercicio01.runtimeconfig.json
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\bin\Debug\net6.0\Ejercicio01.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\bin\Debug\net6.0\Ejercicio01.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.csproj.AssemblyReference.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.AssemblyInfoInputs.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.AssemblyInfo.cs
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.csproj.CoreCompileInputs.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\refint\Ejercicio01.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\Ejercicio01.genruntimeconfig.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Demo\Ejercicio01\obj\Debug\net6.0\ref\Ejercicio01.dll
