@@ -248,4 +248,43 @@ Console.WriteLine($"La primera marca (otra vez) es {queue.Dequeue()}");
 
 (double Sum, int Count) t2 = (4.5, 3);
 Console.WriteLine($"Sum of {t2.Count} elements is {t2.Sum}.");
+
+#region  Leer y Escribir file
+
+string path = "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Clase02\\DemoClase02\\Ejemplo01\\file.txt";
+string Text = "Hello, Hi, ByeBye";
+File.WriteAllText(path, Text);
+string readText = File.ReadAllText(path);
+Console.WriteLine(readText);
+
+
+//Stream 
+string Text2 = "Hello and Welcome";
+using (StreamWriter writetext = new StreamWriter(path))
+{
+    writetext.WriteLine(Text2);
+}
+
+using (StreamReader readtext = new StreamReader(path))
+{
+    string readText2 = readtext.ReadLine();
+    Console.WriteLine(readText2);
+}
+var lineas = File.ReadAllLines(path);
+
+List<string> nuevoArchivo = new List<string>();
+foreach (var linea in lineas)
+{
+    nuevoArchivo.Add(linea);
+    nuevoArchivo.Add("Prueba");
+    
+}
+File.WriteAllLines(path, nuevoArchivo);
+#endregion
+
+
+
+
 Console.ReadLine();
+
+
