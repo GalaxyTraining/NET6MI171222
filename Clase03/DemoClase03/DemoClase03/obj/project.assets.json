@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Clase03\\DemoClase03\\DemoClase03\\DemoClase03.csproj",
+      "projectUniqueName": "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Demo\\Clase03\\DemoClase03\\DemoClase03\\DemoClase03.csproj",
       "projectName": "DemoClase03",
-      "projectPath": "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Clase03\\DemoClase03\\DemoClase03\\DemoClase03.csproj",
+      "projectPath": "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Demo\\Clase03\\DemoClase03\\DemoClase03\\DemoClase03.csproj",
       "packagesPath": "C:\\Users\\ANTHONY\\.nuget\\packages\\",
-      "outputPath": "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Clase03\\DemoClase03\\DemoClase03\\obj\\",
+      "outputPath": "D:\\CursoNet6WebDeveloperModulo2y3\\Modulo1\\Demo\\Clase03\\DemoClase03\\DemoClase03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
