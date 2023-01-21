@@ -101,7 +101,5 @@ Console.WriteLine(listOrderDesc);
 #region Delegate
 PruebaDelegate pruebaDelegate = new();
 pruebaDelegate.FuncionFinal("Esto es un delegado");
-
 #endregion
 Console.ReadLine();
-
