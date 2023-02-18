@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoVentas", "DemoVentas\DemoVentas.csproj", "{875FA301-5DFE-4DD6-93D7-AF81DCF900A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcccesoDatos", "AcccesoDatos\AcccesoDatos.csproj", "{9DAEEACF-6DD8-48FE-9D5F-3CA2C75C8D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{068CB50A-2E98-4701-B195-C14180C992AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875FA301-5DFE-4DD6-93D7-AF81DCF900A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875FA301-5DFE-4DD6-93D7-AF81DCF900A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875FA301-5DFE-4DD6-93D7-AF81DCF900A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875FA301-5DFE-4DD6-93D7-AF81DCF900A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAEEACF-6DD8-48FE-9D5F-3CA2C75C8D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAEEACF-6DD8-48FE-9D5F-3CA2C75C8D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAEEACF-6DD8-48FE-9D5F-3CA2C75C8D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAEEACF-6DD8-48FE-9D5F-3CA2C75C8D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068CB50A-2E98-4701-B195-C14180C992AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068CB50A-2E98-4701-B195-C14180C992AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068CB50A-2E98-4701-B195-C14180C992AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068CB50A-2E98-4701-B195-C14180C992AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6045141A-310D-4FB1-8EF1-A8CE83BD0E51}
+	EndGlobalSection
+EndGlobal

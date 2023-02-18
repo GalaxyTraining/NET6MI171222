@@ -1,0 +1,12 @@
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\bin\Debug\net6.0\AcccesoDatos.deps.json
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\bin\Debug\net6.0\AcccesoDatos.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\bin\Debug\net6.0\AcccesoDatos.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.csproj.AssemblyReference.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.AssemblyInfoInputs.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.AssemblyInfo.cs
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.csproj.CoreCompileInputs.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\refint\AcccesoDatos.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\AcccesoDatos.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\AcccesoDatos\obj\Debug\net6.0\ref\AcccesoDatos.dll

@@ -1,0 +1,15 @@
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\bin\Debug\net6.0\Negocio.deps.json
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\bin\Debug\net6.0\Negocio.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\bin\Debug\net6.0\Negocio.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\bin\Debug\net6.0\AcccesoDatos.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\bin\Debug\net6.0\AcccesoDatos.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\Negocio.pdb
+D:\CursoNet6WebDeveloperModulo2y3\Modulo1\Clase05\Prueba\DemoVentas\Negocio\obj\Debug\net6.0\ref\Negocio.dll
